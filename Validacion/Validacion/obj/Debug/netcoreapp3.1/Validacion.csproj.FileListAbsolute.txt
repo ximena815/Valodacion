@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.exe
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.deps.json
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.runtimeconfig.json
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.dll
+D:\Users\User\Documents\tutoria\Validacion\Validacion\bin\Debug\netcoreapp3.1\Validacion.pdb
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.dll
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.pdb
+D:\Users\User\Documents\tutoria\Validacion\Validacion\obj\Debug\netcoreapp3.1\Validacion.genruntimeconfig.cache
